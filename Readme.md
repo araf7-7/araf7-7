@@ -67,10 +67,8 @@
 
 <h4 align="center">Top langs :tongue: :</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labibkhanofficialbd&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araf7-7&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=labibkhanofficialbd&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="labibkhanofficialbd" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=araf7-7&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="araf7-7" /></p>
 
-  <br/>
-   <img alt="Irtiza Khan Labib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=labibkhanofficialbd&custom_title=Irtiza%20Khan%20Labib's%20Contribution%20Graph&theme=react-dark" />
   <br/>
