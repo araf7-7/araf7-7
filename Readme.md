@@ -12,11 +12,10 @@
     <img src="https://img.shields.io/badge/Living-Dhaka-brighteen"/> 
   </a>
      </p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
  <p align="center" >
   <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=araf7-7&column=8&theme=onedark&no-frame=true"/>
 </p>
-
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 - 🔭 I’m currently working on **MERN Stack Development**
 
 - 🌱 I’m currently learning **HTML,CSS,JS,React,Next,MongoDB**
