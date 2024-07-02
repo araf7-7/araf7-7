@@ -1,4 +1,4 @@
-# [![Araf Ahmed header](https://ibb.co/fHynbhd)]()
+# [![Araf Ahmed header](https://i.ibb.co/bXC2xS5/Black-and-White-Gradient-Personal-Linked-In-Banner.png)]()
 <h1 align="center">Hi I'm Araf Ahmed</h1>
 <h3 align="center">A passionate Web Developer. Currently Learning Mern Stack Web Development</h3>
 
