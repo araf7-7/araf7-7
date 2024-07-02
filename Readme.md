@@ -71,4 +71,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=araf7-7&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="araf7-7" /></p>
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=araf7-7&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
+<p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=araf7-7&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></p>
