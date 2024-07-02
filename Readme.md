@@ -1,3 +1,4 @@
+# [![Araf Ahmed header](https://ibb.co/fHynbhd)]()
 <h1 align="center">Hi I'm Araf Ahmed</h1>
 <h3 align="center">A passionate Web Developer. Currently Learning Mern Stack Web Development</h3>
 
@@ -65,7 +66,7 @@
 </h3>
 
 
-<h4 align="center">Top langs :tongue: :</h4>
+<h4 align="center">Top langs :</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araf7-7&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
